@@ -9,5 +9,9 @@ public class operatorExample {
         System.out.println("a != b: " + (a != b));
         System.out.println("a > b: " + (a > b));
         System.out.println("a < b: " + (a < b));
+        System.out.println("MAster branch");
+        System.out.println("a && b: " + (a && b));
+
+        
     }
 }
